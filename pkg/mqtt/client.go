@@ -147,7 +147,7 @@ func (c *client) Subscribe(reqPath string) *Topic {
 	}
 
 	log.DefaultLogger.Debug("Subscribing to MQTT topic", "topic", t.Path)
-	if token := c.client.Subscribe(t.Path, 0, c.HandleMessage); token.Wait() && token.Error() != nil {
+	if token := c.client.Subscribe(t.Path, 2, c.HandleMessage); token.Wait() && token.Error() != nil {
 		log.DefaultLogger.Error("Error subscribing to MQTT topic", "topic", t.Path, "error", token.Error())
 	}
 	c.topics.Store(t)
