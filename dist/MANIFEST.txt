@@ -8,20 +8,20 @@ Hash: SHA512
   "signedByOrg": "issacspsg",
   "signedByOrgName": "issacspsg",
   "rootUrls": [
-    "https://mapper.issacs.dev/"
+    "https://mapper.issacs.dev:3000/"
   ],
-  "plugin": "grafana-mqtt-datasource",
+  "plugin": "issacs-mqtt-datasource",
   "version": "1.0.1",
-  "time": 1692108567452,
+  "time": 1692110387462,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "CHANGELOG.md": "95e363edf75502303e4ef93c10de92f65688d4cdb2217d48e47e0b64c204750e",
-    "gpx_mqtt_linux_amd64": "6e09215410b31115e7122ee3792bee6289cf2bd1d32622919c2cc7ba42186ac3",
+    "gpx_mqtt_linux_amd64": "5bfeb074e4366195bbe9b7895baf89572f2226e308a35441832a3627e7ee893f",
     "img/mqtt.svg": "b3cfca93ccc3f5996119813abd62008735906df57a4c3328f401948377c41996",
     "LICENSE": "e03ba41d7fab20700769fe4118bab50d800cb74f990353a05d2f5fff1c228363",
     "module.js": "cb50377223a52ba84743de7a1277b753298b1fa7e41af117e7da3d7af312090e",
     "module.js.map": "f6ed4d6024a456283e4c48c60db656b32d2ba5f4bd1b3b8d32410508ea1190fa",
-    "plugin.json": "357bf2d7137047e14418a486584028c6dc723647389dbc2190d602c54544bc28",
+    "plugin.json": "c09fc738683a8d2f57d6a2b1cfc0fca4d7cc4949ea14bb1edbb9a61478a2847a",
     "README.md": "3d473809baf8d0da2d982f463791ee1f432af6a461a98547b03b7559d4d55506"
   }
 }
@@ -29,10 +29,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrgEARMKAAYFAmTbhxcAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm5728AgjS5mr1wfoTrBMAI0STchaM2G19orkSfFpSJVl9+j53M4xNBJ7A
-XULbd3MDXOjrGpc1awGajZt8W3nM5ILurHm1TwIJAZl1pBe/1TzBZfPh1LWF
-5UPoBHdmzYB5sIAYc1WJxbIFnUtbouKcqF/4aI92fS53LK6750AuowF7B8V6
-ulL6J1Cg
-=JW7m
+wrcEARMKAAYFAmTbjjMAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm59XqAgY609oCZITulqQuITjUoS6l4uL+V42VLAffgy3cLTbWilpe4C35
+C6A/kgBH8Yp95yoth+9oX9CtV++erpplk6zFbQIHXGS8Dzxxn30yg1tjzfJq
+B88f0KiL5IjyicCAawhprwchXBevmTPmm6Ay7G2F9zNTLlzqHIc2lmwCMYaH
+ZAsJoj8=
+=jDdL
 -----END PGP SIGNATURE-----
