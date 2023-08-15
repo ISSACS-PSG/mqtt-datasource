@@ -8,11 +8,11 @@ Hash: SHA512
   "signedByOrg": "issacspsg",
   "signedByOrgName": "issacspsg",
   "rootUrls": [
-    "https://mapper.issacs.dev:3000/"
+    "http://mapper.issacs.dev:3000/"
   ],
   "plugin": "issacs-mqtt-datasource",
   "version": "1.0.1",
-  "time": 1692110387462,
+  "time": 1692110568610,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "CHANGELOG.md": "95e363edf75502303e4ef93c10de92f65688d4cdb2217d48e47e0b64c204750e",
@@ -29,10 +29,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrcEARMKAAYFAmTbjjMAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm59XqAgY609oCZITulqQuITjUoS6l4uL+V42VLAffgy3cLTbWilpe4C35
-C6A/kgBH8Yp95yoth+9oX9CtV++erpplk6zFbQIHXGS8Dzxxn30yg1tjzfJq
-B88f0KiL5IjyicCAawhprwchXBevmTPmm6Ay7G2F9zNTLlzqHIc2lmwCMYaH
-ZAsJoj8=
-=jDdL
+wrkEARMKAAYFAmTbjugAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5xWIAgkBxAGYAQLl0q/U4TpO3bLAvWfrHoM1Mu9WV0BiQedvhFYaPd7B
+lRrIRVro7T+cr/sp1/hVgCpCXaDIyp8wQSIyBHECCQGGHzs+1Psun7Hari/b
+pNuyVnpa0AwIsEzhIPCPJkiUnN9hNQEgY51pnQnjLKFV3vMY2Faks5CRClih
+DC02X7DWbQ==
+=4eCe
 -----END PGP SIGNATURE-----
