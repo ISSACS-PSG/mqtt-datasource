@@ -39,7 +39,7 @@ type client struct {
 func NewTLSConfig() (config *tls.Config, err error) {
 	// Import trusted certificates from CAfile.pem.
 	certpool := x509.NewCertPool()
-	pemCerts, err := ioutil.ReadFile("/home/kxm613/mqtt-datasource/pkg/mqtt/AmazonRootCA1.pem")
+	pemCerts, err := ioutil.ReadFile("/var/lib/grafana/plugins/issacs-mqtt-datasource/certs/AmazonRootCA1.pem")
 	if err != nil {
 		fmt.Errorf("ReadFile: %v", err)
 		return
@@ -48,8 +48,8 @@ func NewTLSConfig() (config *tls.Config, err error) {
 
 	// Import client certificate/key pair.
 	cert, err := tls.LoadX509KeyPair(
-		"/home/kxm613/mqtt-datasource/pkg/mqtt/mqtt5.certificate.pem",
-		"/home/kxm613/mqtt-datasource/pkg/mqtt/mqtt5.private.key")
+		"/var/lib/grafana/plugins/issacs-mqtt-datasource/certs/mqtt5.certificate.pem",
+		"/var/lib/grafana/plugins/issacs-mqtt-datasource/certs/mqtt5.private.key")
 
 	if err != nil {
 		fmt.Errorf("failedLoadX509KeyPair: %v", err)
