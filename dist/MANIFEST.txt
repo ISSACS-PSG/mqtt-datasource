@@ -1,0 +1,37 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "issacspsg",
+  "signedByOrgName": "issacspsg",
+  "rootUrls": [
+    "http://mapper.issacs.dev:3000/"
+  ],
+  "plugin": "issacs-mqtt-datasource",
+  "version": "1.0.1",
+  "time": 1692111846477,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "README.md": "224b7ca937a883f87d3f8e4b31e4bfbe52558da9b063180a90fe7cd863352f4b",
+    "module.js": "b88ed8633354d40a2392be35a525837ce7e9e531364e33a3a58040d3d4ea34c7",
+    "plugin.json": "783eb1d8302c655db4d5365503f8992043f13e8d126c1cc0a5dc8ae2f76f60bd",
+    "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "module.js.map": "f6ed4d6024a456283e4c48c60db656b32d2ba5f4bd1b3b8d32410508ea1190fa",
+    "CHANGELOG.md": "53f425a59cd8fae826fe4eb495afbdb199ddbbd4349b1423f8c0a0d832ff6bf7",
+    "gpx_mqtt_linux_amd64": "26eccf01d481d5b33cf47c3642adee6b59b551fd8d225f16e9ba548048686156"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrgEARMKAAYFAmTbk+YAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5/oyAgiOSl3Hzqeata1EUJiYMY4XDlnlTUipERkn0qcgH8XN8tNm/zoY
+7yraX1O+I366Mkag2Y/uAdjQst+MOJ3jgFDYdQIJASQRLqLXWwkSvZ0rJZ1H
+aPPgKESkNzqySwwSgo/EQdcn1TMhWNmiDnX1BwF3rfiKi6v1y0c/fFw7xsvI
+ZWGJ28Nu
+=gddM
+-----END PGP SIGNATURE-----
