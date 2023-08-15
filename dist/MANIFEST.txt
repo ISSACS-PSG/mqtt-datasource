@@ -12,7 +12,7 @@ Hash: SHA512
   ],
   "plugin": "issacs-mqtt-datasource",
   "version": "1.0.1",
-  "time": 1692117222804,
+  "time": 1692117522670,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "README.md": "224b7ca937a883f87d3f8e4b31e4bfbe52558da9b063180a90fe7cd863352f4b",
@@ -21,17 +21,17 @@ Hash: SHA512
     "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
     "module.js.map": "f6ed4d6024a456283e4c48c60db656b32d2ba5f4bd1b3b8d32410508ea1190fa",
     "CHANGELOG.md": "53f425a59cd8fae826fe4eb495afbdb199ddbbd4349b1423f8c0a0d832ff6bf7",
-    "gpx_mqtt_linux_amd64": "48f76dead170399fd9b90ace7821ede162a7640f1d5e0c60d671063ceddb4622"
+    "gpx_mqtt_linux_amd64": "860c5a49dff57ac6a873b087d83ee9b30804e3646a2b946998e1b6457e96a835"
   }
 }
 -----BEGIN PGP SIGNATURE-----
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrgEARMKAAYFAmTbqOYAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm57c4AgkBi3+yOmkdd1apBrJsBGXT1G7mW9w5KsMgZ5KqnpFMR9umSJR7
-q4f9ZI+d1C8u3lU0EuTwOMqO6/iX8ULRcRGKKFwCBj4BuHll7IXs7dgGxuwj
-Xv0fCJJMpWs3Ccuu5FzvBTBMkIYZ9dpXILxVsvZxioFpjRMnOeSgRtfRrKjE
-r5TIA3bs
-=E9jM
+wrcEARMKAAYFAmTbqhIAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5/6vAgY8luXPZXuy9oaj077its1YMY3LEw0BBiyy+vp4+D/Zo/1mZErK
++oBcBH38oMGs1B3LyXQ7NqQhUnHYxJ3qryIHwQII80g5ZyDpTEj8bsL6Fgj0
+jInojhSo+zGkGpd9ttBp0KrIqgak9omMYsoCGyQqhz+nL18HLpXqVmXxBWYF
+SmdmfUM=
+=oReH
 -----END PGP SIGNATURE-----
